@@ -141,6 +141,16 @@ a:focus {
   margin-left: 150px;
 }
 
+.img-year {
+  margin-left: 150px;
+  font-weight: 600;
+}
+
+.img-cap1 {
+  margin-left: 130px;
+  margin-bottom: 20px;
+}
+
 /* section2 */
 .h1-sec2 {
   font-weight: 600;
@@ -410,6 +420,21 @@ i {
 
   .img1-sec2 {
     display: none;
+  }
+
+  .sec1-img {
+    display: none;
+  }
+
+  .img-year {
+    margin-left: 80px;
+    font-weight: 600;
+    width: 100%;
+  }
+
+  .img-cap1 {
+    margin-left: 80px;
+    margin-bottom: 20px;
   }
 }
 
